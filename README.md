@@ -29,3 +29,7 @@ Backend programming study with https://roadmap.sh/backend
   (이정현,
   정우경,
   김지성)
+- 2023-07-20 : What is hosting?
+  (이정현,
+  정우경,
+  김지성)
