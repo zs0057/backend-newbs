@@ -22,9 +22,8 @@ Backend programming study with https://roadmap.sh/backend
   [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/Populating%20the%20page_%20how%20browsers%20work%20-%20Google%20Docs.pdf),
   [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/How%20browsers%20work.pdf))
 - 2023-07-13 : DNS and how it works?
-  (이정현,
-  정우경,
-  김지성)
+  ([이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/DNS%20and%20how%20it%20works%3F.md),
+  [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/What%20is%20DNS_%20_%20How%20DNS%20works%20-%20Google%20Docs.pdf))
 - 2023-07-17 : What is Domain Name?
   (이정현,
   정우경,
