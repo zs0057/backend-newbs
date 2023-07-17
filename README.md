@@ -26,9 +26,12 @@ Backend programming study with https://roadmap.sh/backend
   [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/What%20is%20DNS_%20_%20How%20DNS%20works%20-%20Google%20Docs.pdf))
 - 2023-07-17 : What is Domain Name?
   (이정현,
-  정우경,
   김지성)
 - 2023-07-20 : What is hosting?
+  (이정현,
+  정우경,
+  김지성)
+- 2023-07-27 : Review
   (이정현,
   정우경,
   김지성)
