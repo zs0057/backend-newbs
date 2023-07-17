@@ -1,6 +1,6 @@
 # Backend-Newbs
 
-Backend programming study with [roadmap.sh/backend](https://roadmap.sh/backend)
+Backend programming study with [roadmap.sh Backend Roadmap](https://roadmap.sh/backend)
 
 ## Members
 
