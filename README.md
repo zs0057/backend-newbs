@@ -25,8 +25,8 @@ Backend programming study with https://roadmap.sh/backend
   ([이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/DNS%20and%20how%20it%20works%3F.md),
   [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/What%20is%20DNS_%20_%20How%20DNS%20works%20-%20Google%20Docs.pdf))
 - 2023-07-17 : What is Domain Name?
-  (이정현,
-  김지성)
+  ([이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/What%20is%20Domain%20Name%3F.md),
+  [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/What%20is%20Domain%20Name%20a4118925eba444c1abebbe9815adb59c.pdf))
 - 2023-07-20 : What is hosting?
   (이정현,
   정우경,
