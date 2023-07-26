@@ -31,7 +31,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
   ([이정현](https://github.com/manoflearning/Backend-Newbs/blob/main/AFpine/What%20is%20Hosting%3F.md),
   [정우경](https://github.com/manoflearning/Backend-Newbs/blob/main/manoflearning/What%20is%20hosting_%20-%20Google%20Docs.pdf),
   김지성)
-- 2023-07-27 : Review
+- 2023-07-27 : Review (230703 ~ 230720)
   (이정현,
   정우경,
   김지성)
