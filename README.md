@@ -33,7 +33,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
   김지성)
 - 2023-07-27 : Review (230703 ~ 230720)
   (이정현,
-  정우경,
+  [정우경](https://docs.google.com/document/d/1vALnoCwxWI7bbY7mpu_apX7C6Nc9pSvyxr3yl9jB79U/edit?usp=sharing),
   김지성)
 - 2023-07-31 : Git
   (이정현,
