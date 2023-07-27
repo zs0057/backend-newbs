@@ -8,7 +8,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 - 정우경 : https://github.com/manoflearning
 - 김지성 : https://github.com/zs0057
 
-## Schedules
+## Schedules ([Backend Roadmap]((https://roadmap.sh/backend))
 
 - 2023-07-03 : How does the internet work?
   ([이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/How%20does%20the%20internet%20work%3F.md),
