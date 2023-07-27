@@ -44,3 +44,6 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
   김지성)
   
 ## Schedules (Hands-on Lesson)
+- 2023-08-02 : HTML, CSS
+  (이정현,
+  정우경)
