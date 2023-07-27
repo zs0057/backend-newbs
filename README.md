@@ -39,3 +39,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
   (이정현,
   정우경,
   김지성)
+- 2023-08-03 : GitHub
+  (이정현,
+  정우경,
+  김지성)
