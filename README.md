@@ -36,10 +36,12 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
   [정우경](https://github.com/manoflearning/Backend-Newbs/blob/main/manoflearning/Review%20(230703%20~%20230720)%20-%20Google%20Docs.pdf),
   [김지성](https://github.com/manoflearning/Backend-Newbs/blob/main/Zs/Review.pdf))
 - 2023-07-31 : Git
+  ([이정현](https://github.com/manoflearning/Backend-Newbs/blob/main/AFpine/Git.md))
+- 2023-08-03 : GitHub
   (이정현,
   정우경,
   김지성)
-- 2023-08-03 : GitHub
+- 2023-08-07 : Terminal usage
   (이정현,
   정우경,
   김지성)
