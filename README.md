@@ -24,7 +24,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | | **Version Control Systems** | |
 | 23-07-31 | Git | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Git.md) |
 | | **Repo Hosting Services** | |
-| 23-08-03 | GitHub | 이정현, 정우경, 김지성 |
+| 23-08-03 | GitHub | |
 | | **OS and General Knowledge** | |
 | 23-08-07 | Terminal Usage | 이정현, 정우경, 김지성 |
 | 23-08-07 | POSIX Basics | 이정현, 정우경, 김지성 |
