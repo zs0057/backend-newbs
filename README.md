@@ -11,7 +11,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 ## Schedules (Backend Roadmap)
 - Material : [Backend Roadmap (roadmap.sh)](https://roadmap.sh/backend)
 
-| Time | Detail | Notes |
+| Date | Detail | Notes |
 |------|--------|-------|
 | | **Internet** | |
 | 23-07-03 | How does the internet work? | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/How%20does%20the%20internet%20work%3F.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/How%20does%20the%20internet%20work_%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/How%20does%20Internet%20work.pdf) |
@@ -42,7 +42,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 
 ## Schedules (Hands-on)
 
-| Time | Detail | Notes | Materials |
+| Date | Detail | Codes | Materials |
 |------|--------|-------|-----------| 
 | 23-08-02 | HTML/CSS | 이정현, [정우경](https://github.com/manoflearning/zombie) | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) |
 | 23-08-09 | JavaScript | 이정현, 정우경 | [Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners) |
