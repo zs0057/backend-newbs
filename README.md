@@ -33,3 +33,5 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | Time | Detail | Notes | Materials |
 |------|--------|-------|-----------| 
 |   2023-08-02   |    HTML, CSS    |   이정현, [정우경](https://github.com/manoflearning/zombie)    | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) |
+
+abc
