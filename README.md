@@ -28,16 +28,16 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | | **OS and General Knowledge** | |
 | 23-08-07 | Terminal Usage | 이정현, 정우경, 김지성 |
 | 23-08-07 | POSIX Basics | 이정현, 정우경, 김지성 |
-| TBD | Basic Terminal Commands | |
-| TBD | How OSs work in General | |
-| TBD | Memory Management | |
-| TBD | Interprocess Communication | |
-| TBD | I/O Management | |
-| TBD | Basic Networking Concepts | |
-| TBD | Threads and Concurrency | |
-| TBD | Process Management | |
+| To-do | Basic Terminal Commands | |
+| To-do | How OSs work in General | |
+| To-do | Memory Management | |
+| To-do | Interprocess Communication | |
+| To-do | I/O Management | |
+| To-do | Basic Networking Concepts | |
+| To-do | Threads and Concurrency | |
+| To-do | Process Management | |
 | | **Relational Databases** | |
-| TBD | PostgreSQL | |
+| To-do | PostgreSQL | |
 
 
 ## Schedules (Hands-on)
@@ -46,7 +46,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 |------|--------|-------|-----------| 
 | 23-08-02 | HTML/CSS | 이정현, [정우경](https://github.com/manoflearning/zombie) | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) |
 | 23-08-09 | JavaScript | 이정현, 정우경 | [Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners) |
-| TBD | NodeJS (Express, Koa) | | |
-| TBD | MongoDB | | |
-| TBD | Python (Flask, Django) | | |
-| TBD | ReactJS | | |
+| To-do | NodeJS (Express, Koa) | | |
+| To-do | MongoDB | | |
+| To-do | Python (Flask, Django) | | |
+| To-do | ReactJS | | |
