@@ -34,4 +34,4 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | Time | Detail | Notes | Materials |
 |------|--------|-------|-----------| 
 |   23-08-02   |    HTML, CSS    |   이정현, [정우경](https://github.com/manoflearning/zombie)    | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) |
-| 23-08-09 | Javascript | 이정현, 정우경 | [바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners) |
+| 23-08-09 | Javascript | 이정현, 정우경 | [Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners) |
