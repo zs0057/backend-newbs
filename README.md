@@ -40,7 +40,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | TBD | PostgreSQL | |
 
 
-## Schedules (Practice)
+## Schedules (Hands-on)
 
 | Time | Detail | Notes | Materials |
 |------|--------|-------|-----------| 
