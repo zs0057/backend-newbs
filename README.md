@@ -29,13 +29,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | 23-08-07 | Terminal Usage | 이정현, 정우경, 김지성 |
 | 23-08-07 | POSIX Basics | 이정현, 정우경, 김지성 |
 | To-do | Basic Terminal Commands | |
-| To-do | How OSs work in General | |
-| To-do | Memory Management | |
-| To-do | Interprocess Communication | |
-| To-do | I/O Management | |
-| To-do | Basic Networking Concepts | |
-| To-do | Threads and Concurrency | |
-| To-do | Process Management | |
+| To-do | Operating Systems Knowledge (7 Topics) | |
 | | **Relational Databases** | |
 | To-do | PostgreSQL | |
 
