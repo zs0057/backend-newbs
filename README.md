@@ -26,8 +26,8 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | | **Repo Hosting Services** | |
 | 23-08-03 | GitHub | |
 | | **OS and General Knowledge** | |
-| 23-08-07 | Terminal Usage | 이정현, 정우경, 김지성 |
-| 23-08-07 | POSIX Basics | 이정현, 정우경, 김지성 |
+| 23-08-08 | Terminal Usage | 이정현, 정우경, 김지성 |
+| 23-08-08 | POSIX Basics | 이정현, 정우경, 김지성 |
 | To-do | Basic Terminal Commands | |
 | To-do | Operating Systems Knowledge (7 Topics) | |
 | | **Relational Databases** | |
