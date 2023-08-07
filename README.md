@@ -28,10 +28,10 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | | **OS and General Knowledge** | |
 | 23-08-08 | Terminal Usage | 이정현, 정우경, 김지성 |
 | 23-08-08 | POSIX Basics | 이정현, 정우경, 김지성 |
-| To-do | Basic Terminal Commands | |
-| To-do | Operating Systems Knowledge (7 Topics) | |
+| To-do | Basic Terminal Commands | - |
+| To-do | Operating Systems Knowledge (7 Topics) | - |
 | | **Relational Databases** | |
-| To-do | PostgreSQL | |
+| To-do | PostgreSQL | - |
 
 
 ## Schedules (Hands-on)
