@@ -40,7 +40,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | 23-08-02 | HTML/CSS | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) | 이정현, [정우경](https://github.com/manoflearning/zombie) |
 | 23-08-09 | JavaScript | [Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners) | 이정현, 정우경 |
 | 23-08-12 | HTML/CSS, JavaScript Recap 1 | [CS50x 2023 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/live/alnzFK-4xMY?feature=share) | 이정현, 정우경, 김지성 |
-| 23-08-31 | HTML/CSS, JavaScript Recap 2 | [Heather Buchel](https://heather-buchel.com/), Personal Project | 이정현, 정우경, 김지성 |
+| 23-08-31 | HTML/CSS, JavaScript Recap 2 | [Heather Buchel](https://heather-buchel.com/) | 이정현, 정우경, 김지성 |
 | 23-03-31 | Mini project using HTML/CSS, JavaScript | | 이정현, 정우경, 김지성 |
 | To-do | NodeJS (Express, Koa) | | |
 | To-do | MongoDB | | |
